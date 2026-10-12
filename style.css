@@ -1,0 +1,31 @@
+.navbar-nav a:hover {
+    font-family: "Playfair Display", serif;
+    font-size: 22px;
+    color: orange;
+}
+
+
+.text1 {
+    font-family: "Playfair Display", serif;
+    font-size: 20.5px;
+
+}
+
+.roqs {
+    font-family: "Gwendolyn", cursive;
+}
+
+.omm {
+    background-image: url(img/bg-01-free-img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 80vh;
+
+}
+
+.text0 {
+    font-family: "Notable", sans-serif;
+    font-size: 80px;
+    height: 500px;
+}
